@@ -1,4 +1,4 @@
-﻿using Tuyuiu.skirnevskyBR.Sprint1.Task1.V17.Lib;
+﻿using Tyuiu.skirnevskyBR.Sprint1.Task1.V17.Lib;
 DataService ds = new DataService();
 
 Console.Title = "Спринт #1 | Выполнил: Скирневский Б.Р. | ИБКСб-25-1";

@@ -1,4 +1,4 @@
-﻿using Tuyuiu.skirnevskyBR.Sprint1.Task1.V17.Lib;
+﻿using Tyuiu.skirnevskyBR.Sprint1.Task1.V17.Lib;
 namespace Tuyuiu.skirnevskyBR.Sprint1.Task1.V17.Test
 {
     [TestClass]
