@@ -61,11 +61,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.skirnevskyBR.Sprint1.
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task7", "Task7", "{83DBFD5E-472F-4EAC-AAA0-405BB17622E1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.skirnevskyBR.Sprint1.V8", "Tyuiu.skirnevskyBR.Sprint1.V8\Tyuiu.skirnevskyBR.Sprint1.V8.csproj", "{4057D284-32FB-482F-8C73-5E561AFE61CB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.skirnevskyBR.Sprint1.Task7.V8", "Tyuiu.skirnevskyBR.Sprint1.V8\Tyuiu.skirnevskyBR.Sprint1.Task7.V8.csproj", "{4057D284-32FB-482F-8C73-5E561AFE61CB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.skirnevskyBR.Sprint1.V8.Test", "Tyuiu.skirnevskyBR.Sprint1.V8.Test\Tyuiu.skirnevskyBR.Sprint1.V8.Test.csproj", "{E33801DE-39E1-444C-87E1-555CC0EB1D27}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.skirnevskyBR.Sprint1.Task7.V8.Test", "Tyuiu.skirnevskyBR.Sprint1.V8.Test\Tyuiu.skirnevskyBR.Sprint1.Task7.V8.Test.csproj", "{E33801DE-39E1-444C-87E1-555CC0EB1D27}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.skirnevskyBR.Sprint1.V8.Lib", "Tyuiu.skirnevskyBR.Sprint1.V8.Lib\Tyuiu.skirnevskyBR.Sprint1.V8.Lib.csproj", "{F8BB8953-F113-4010-80A8-5C83E9C90E72}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.skirnevskyBR.Sprint1.Task7.V8.Lib", "Tyuiu.skirnevskyBR.Sprint1.V8.Lib\Tyuiu.skirnevskyBR.Sprint1.Task7.V8.Lib.csproj", "{F8BB8953-F113-4010-80A8-5C83E9C90E72}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
