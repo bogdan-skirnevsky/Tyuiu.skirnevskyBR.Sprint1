@@ -27,6 +27,7 @@ Console.WriteLine("*******************************************************");
 Console.WriteLine("* РЕЗУЛЬТАТ:                                          *");
 Console.WriteLine("*******************************************************");
 
+
 bool result = ds.CheckHello(str);
 
 if (result)
